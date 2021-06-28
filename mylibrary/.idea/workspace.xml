@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3928b0d3-35e0-4338-95e6-946729ef00f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft_data\mavenRepository" />
+        <option name="mavenHome" value="D:/my_software/apache-maven-3.8.1-bin/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\my_software\apache-maven-3.8.1-bin\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="15" />
+  </component>
+  <component name="ProjectId" id="1uKqOZwSKFdAqGzh7P6GiTXD8NL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-course" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.entity" />
+      <recent name="org.example" />
+      <recent name="org.example.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\mylibrary\params" />
+      <recent name="D:\IDEA\mylibrary\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.GroupSignatureTest.testGroupSignature">
+    <configuration name="CPABETest.testCPABE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datasharing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CPABETest" />
+      <option name="METHOD_NAME" value="testCPABE" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupSignatureTest.testGroupSignature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datasharing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.GroupSignatureTest" />
+      <option name="METHOD_NAME" value="testGroupSignature" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LagelangriTest.lagelangriTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datasharing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.LagelangriTest" />
+      <option name="METHOD_NAME" value="lagelangriTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RrCPABETest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datasharing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RrCPABETest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RrCPABETest.testRrCPABE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="datasharing-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.RrCPABETest" />
+      <option name="METHOD_NAME" value="testRrCPABE" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GroupSignatureTest.testGroupSignature" />
+        <item itemvalue="JUnit.RrCPABETest.testRrCPABE" />
+        <item itemvalue="JUnit.RrCPABETest" />
+        <item itemvalue="JUnit.CPABETest.testCPABE" />
+        <item itemvalue="JUnit.LagelangriTest.lagelangriTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3928b0d3-35e0-4338-95e6-946729ef00f3" name="Default Changelist" comment="" />
+      <created>1624424596411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624424596411</updated>
+      <workItem from="1624424599856" duration="64641000" />
+      <workItem from="1624763176345" duration="24849000" />
+      <workItem from="1624839273234" duration="2515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1624801032124">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="335" y="1291" key="#com.intellij.ide.util.MemberChooser/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624430242288" />
+    <state x="679" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624801032124" />
+    <state x="1419" y="-831" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624539721470" />
+    <state x="117" y="1439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1624435359063">
+      <screen x="-344" y="1080" width="1440" height="880" />
+    </state>
+    <state x="117" y="1439" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624435359063" />
+    <state x="165" y="1399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1624435362294">
+      <screen x="-344" y="1080" width="1440" height="880" />
+    </state>
+    <state x="165" y="1399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624435362294" />
+    <state x="134" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1624804405733">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="134" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624804405733" />
+    <state x="692" y="-1080" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624538759065" />
+    <state x="108" y="1269" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1624425373557">
+      <screen x="-344" y="1080" width="1440" height="880" />
+    </state>
+    <state x="108" y="1269" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624425373557" />
+    <state x="502" y="184" key="FileChooserDialogImpl" timestamp="1624840027562">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="158" y="1269" key="FileChooserDialogImpl/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624430415008" />
+    <state x="502" y="184" key="FileChooserDialogImpl/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624840027562" />
+    <state x="1183" y="-857" key="FileChooserDialogImpl/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624775255351" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1624804927507">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624425576863" />
+    <state width="1398" height="2" key="GridCell.Tab.0.bottom/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624804927507" />
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624783739533" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center" timestamp="1624804927506">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624425576863" />
+    <state width="1398" height="2" key="GridCell.Tab.0.center/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624804927506" />
+    <state width="1877" height="328" key="GridCell.Tab.0.center/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624783739533" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left" timestamp="1624804927506">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624425576863" />
+    <state width="1398" height="2" key="GridCell.Tab.0.left/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624804927506" />
+    <state width="1877" height="328" key="GridCell.Tab.0.left/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624783739533" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right" timestamp="1624804927507">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624425576863" />
+    <state width="1398" height="2" key="GridCell.Tab.0.right/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624804927507" />
+    <state width="1877" height="328" key="GridCell.Tab.0.right/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624783739533" />
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom" timestamp="1624534670498">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624534670498" />
+    <state width="1398" height="276" key="GridCell.Tab.1.center" timestamp="1624534670497">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.center/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624534670497" />
+    <state width="1398" height="276" key="GridCell.Tab.1.left" timestamp="1624534670497">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.left/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624534670497" />
+    <state width="1398" height="276" key="GridCell.Tab.1.right" timestamp="1624534670498">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1398" height="276" key="GridCell.Tab.1.right/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624534670498" />
+    <state x="367" y="134" key="NewModule_or_Project.wizard" timestamp="1624839968077">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="367" y="134" key="NewModule_or_Project.wizard/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624839968077" />
+    <state x="201" y="7" key="SettingsEditor" timestamp="1624600311275">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="-143" y="1088" key="SettingsEditor/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624430721930" />
+    <state x="782" y="-1071" key="SettingsEditor/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624539713776" />
+    <state x="201" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1624600311275" />
+    <state x="1166" y="-732" key="com.intellij.ide.util.TipDialog" timestamp="1624763217067">
+      <screen x="514" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1166" y="-732" key="com.intellij.ide.util.TipDialog/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624763217067" />
+    <state x="514" y="-779" width="561" height="817" key="dock-window-1" timestamp="1624839282438">
+      <screen x="514" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="514" y="-779" width="561" height="817" key="dock-window-1/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624839282438" />
+    <state x="173" y="17" width="721" height="860" maximized="true" key="dock-window-1/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624537211845" />
+    <state x="514" y="-784" width="561" height="817" maximized="true" key="dock-window-2" timestamp="1624839282439">
+      <screen x="514" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="514" y="-784" width="561" height="817" maximized="true" key="dock-window-2/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624839282439" />
+    <state x="428" y="224" width="721" height="714" key="dock-window-2/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624591943315" />
+    <state x="0" y="0" width="1452" height="766" maximized="true" key="dock-window-3" timestamp="1624763859181">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="0" width="1452" height="766" maximized="true" key="dock-window-3/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624763859181" />
+    <state x="0" y="0" width="1452" height="766" key="dock-window-3/0.0.1440.860@0.0.1440.860" timestamp="1624762507794" />
+    <state x="380" y="198" key="run.anything.popup" timestamp="1624698144872">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="380" y="198" key="run.anything.popup/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624698144872" />
+    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1624516176046">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="383" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624516176046" />
+  </component>
+</project>
