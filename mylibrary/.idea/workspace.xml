@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -32,6 +35,7 @@
     <option name="jreName" value="15" />
   </component>
   <component name="ProjectId" id="1uKqOZwSKFdAqGzh7P6GiTXD8NL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -41,7 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-course" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/jpbc-plaf-2.0.0.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -176,6 +180,7 @@
       <workItem from="1624424599856" duration="64641000" />
       <workItem from="1624763176345" duration="24849000" />
       <workItem from="1624839273234" duration="2515000" />
+      <workItem from="1624888147025" duration="97000" />
     </task>
     <servers />
   </component>
@@ -183,6 +188,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1335" y="-875" key="#GroupSignatureTest.testGroupSignature" timestamp="1624888328128">
+      <screen x="514" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="1335" y="-875" key="#GroupSignatureTest.testGroupSignature/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624888328128" />
     <state x="679" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1624801032124">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -206,11 +215,11 @@
       <screen x="-344" y="1080" width="1440" height="880" />
     </state>
     <state x="108" y="1269" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624425373557" />
-    <state x="502" y="184" key="FileChooserDialogImpl" timestamp="1624840027562">
+    <state x="502" y="184" key="FileChooserDialogImpl" timestamp="1624888235625">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="158" y="1269" key="FileChooserDialogImpl/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624430415008" />
-    <state x="502" y="184" key="FileChooserDialogImpl/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624840027562" />
+    <state x="502" y="184" key="FileChooserDialogImpl/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624888235625" />
     <state x="1183" y="-857" key="FileChooserDialogImpl/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624775255351" />
     <state width="1398" height="2" key="GridCell.Tab.0.bottom" timestamp="1624804927507">
       <screen x="0" y="0" width="1440" height="860" />
@@ -256,10 +265,11 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="367" y="134" key="NewModule_or_Project.wizard/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624839968077" />
-    <state x="201" y="7" key="SettingsEditor" timestamp="1624600311275">
+    <state x="201" y="7" key="SettingsEditor" timestamp="1624888244002">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="-143" y="1088" key="SettingsEditor/-344.1080.1440.880/0.0.1920.1040@-344.1080.1440.880" timestamp="1624430721930" />
+    <state x="201" y="7" key="SettingsEditor/0.0.1440.860/514.-1080.1920.1040@0.0.1440.860" timestamp="1624888244002" />
     <state x="782" y="-1071" key="SettingsEditor/0.0.1440.860/514.-1080.1920.1040@514.-1080.1920.1040" timestamp="1624539713776" />
     <state x="201" y="7" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1624600311275" />
     <state x="1166" y="-732" key="com.intellij.ide.util.TipDialog" timestamp="1624763217067">

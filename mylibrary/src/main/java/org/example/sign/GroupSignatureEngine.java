@@ -46,10 +46,10 @@ public class GroupSignatureEngine {
         Element r_xi=pairing.getZr().newRandomElement().getImmutable();
         Element r_delta=pairing.getZr().newRandomElement().getImmutable();
         Element R_1=publicKey.getU().powZn(r_eta).getImmutable();
-        Element R_2stemp1=pairing.pairing(T_2,publicKey.getG2()).powZn(r_eta).getImmutable();
+        Element R_2stemp1=pairing.pairing(T_2,publicKey.getG2()).powZn(r_xi).getImmutable();
         Element zero=pairing.getZr().newZeroElement().getImmutable();
         Element R_2stemp2=pairing.pairing(publicKey.getV(),publicKey.getOmega()).powZn(zero.sub(r_eta)).getImmutable();
-        Element R_2stemp3=pairing.pairing(publicKey.getV(),publicKey.getG2()).powZn(zero.sub(r_eta)).getImmutable();
+        Element R_2stemp3=pairing.pairing(publicKey.getV(),publicKey.getG2()).powZn(zero.sub(r_delta)).getImmutable();
         Element R_2=R_2stemp1.mul(R_2stemp2).mul(R_2stemp3).getImmutable();
         Element R_3=T_1.powZn(r_xi).mul(publicKey.getU().powZn(zero.sub(r_delta))).getImmutable();
         List<Element> list=new ArrayList<>();
